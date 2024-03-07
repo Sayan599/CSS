@@ -1,0 +1,9 @@
+.parent {
+    background-color: orange;
+}
+
+.one {
+    width: 300px;
+    background-color: cadetblue;
+    padding: 20px;
+}
